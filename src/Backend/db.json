@@ -1,0 +1,25 @@
+{
+  "client": [
+    {
+      "name": "abcd",
+      "email": "pranj@we.com",
+      "id": "efa3"
+    },
+    {
+      "id": "103",
+      "name": "kalyani",
+      "company": "ppp",
+      "email": "asdfghjkl.@gmail.com",
+      "contact": "9022737655",
+      "role": "pxttt"
+    },
+    {
+      "id": "103",
+      "name": "pranjali",
+      "company": "02345654321",
+      "email": "pranj@we.com",
+      "contact": "1234567890",
+      "role": "klll"
+    }
+  ]
+}
